@@ -4,7 +4,7 @@ This template repository can be used for managing AppSource Apps for Business Ce
 
 Please go to https://aka.ms/AL-Go to learn more.
 
-## Contributing
+## Contributing !
 
 Please read [this](https://github.com/microsoft/AL-Go/blob/main/Scenarios/Contribute.md) description on how to contribute to AL-Go for GitHub.
 
